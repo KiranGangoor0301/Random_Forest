@@ -6,7 +6,7 @@ This repository contains code and resources for deploying the Random Forest algo
 
 ### Prerequisites
 
-- Python (version X.X)
+- Python (version 3.11.4)
 - Libraries: scikit-learn, numpy, pandas (install using `pip`)
 
 ### Installation
@@ -14,7 +14,7 @@ This repository contains code and resources for deploying the Random Forest algo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KiranGangoor0301/Random_Forest/blob/main/random_forest.py
+   git clone https://github.com/KiranGangoor0301/Random_Forest
    cd random-forest-deployment
    ```
 
