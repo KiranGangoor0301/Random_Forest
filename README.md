@@ -1,6 +1,6 @@
 # Random Forest Algorithm Machine Learning
 
-This repository contains code and resources for deploying the Random Forest algorithm on GitHub.
+This repository contains code of the Random Forest algorithm 
 
 ## Getting Started
 
