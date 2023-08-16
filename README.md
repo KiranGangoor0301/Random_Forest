@@ -14,7 +14,7 @@ This repository contains code and resources for deploying the Random Forest algo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/random-forest-deployment.git
+   git clone https://github.com/KiranGangoor0301/Random_Forest/blob/main/random_forest.py
    cd random-forest-deployment
    ```
 
